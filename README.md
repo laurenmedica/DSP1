@@ -175,6 +175,3 @@ F1 score is emphasized because it balances precision and recall and is appropria
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
